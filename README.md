@@ -1,4 +1,5 @@
-# Python
+# Python Practice
+
 
 ## 📘 Lesson 1.2: Python Basics
 
@@ -24,5 +25,5 @@ All programs in this lesson are **written, executed, and tested in Python**.
 ---
 
 ## 📂 File
-- `Python_Basics.py` → Contains all practice questions and solutions related to this lesson
+- `Python_Basics.ipynb` → Contains all practice questions and solutions related to this lesson
 
