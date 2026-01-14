@@ -50,3 +50,29 @@ practical, input-based Python programs.
 ## 📂 File
 - `control_flow.ipynb`
 
+## 📘 Lesson 3.1: Lists  
+**Module 3: Data Structures Assignments**
+
+**File:** `Day_03_Lists.ipynb`
+
+### Topics Covered
+- Creating lists
+- Accessing list elements (indexing)
+- List slicing
+- Filtering Lists
+- Modifying lists (add, update, delete)
+- Common list methods (`append`, `insert`, `remove`, `sort`)
+- Nested Lists
+- List of Dictionaries
+- Matrix Transposition
+- List Zipping
+- List Intersection
+- Iterating over lists using loops
+
+### What I Practiced
+- Created and manipulated lists using Python
+- Accessed elements using indexing and slicing
+- Solved problems using list methods
+- Applied loops with lists for problem-solving
+
+
