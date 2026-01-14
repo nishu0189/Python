@@ -53,8 +53,6 @@ practical, input-based Python programs.
 ## 📘 Lesson 3.1: Lists  
 **Module 3: Data Structures Assignments**
 
-**File:** `Day_03_Lists.ipynb`
-
 ### Topics Covered
 - Creating lists
 - Accessing list elements (indexing)
@@ -75,4 +73,6 @@ practical, input-based Python programs.
 - Solved problems using list methods
 - Applied loops with lists for problem-solving
 
+## 📂 File
+- `List.ipynb`
 
