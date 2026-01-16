@@ -50,7 +50,7 @@ practical, input-based Python programs.
 
 ---
 
-## 📘 Lesson 3.1: Lists  
+# 📘 Lesson 3.1: Lists  
 **Module 3: Data Structures Assignments**
 ## 📂 File
 - `List.ipynb`
@@ -76,7 +76,7 @@ practical, input-based Python programs.
 - Applied loops with lists for problem-solving
 
 ---
-## 📘 Lesson 3.2: Tuples  
+# 📘 Lesson 3.2: Tuples  
 **Module 3: Data Structures Assignments**
  
  ## 📂 File
