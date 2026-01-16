@@ -6,18 +6,16 @@
 This lesson focuses on building a strong foundation in Python by understanding its core concepts and implementing them through **hands-on coding questions**.
 All programs in this lesson are **written, executed, and tested in Python**.
 
----
+
 ## 📂 File
 - `Python_Basics.ipynb` → Contains all practice questions and solutions related to this lesson
 
----
 
 ## 🎯 Topics Covered
 1. Syntax and Semantics  
 2. Variables and Data Types  
 3. Basic Operators (Arithmetic, Comparison, Logical)
 
----
 
 ##  What I Practiced
 - Wrote basic Python statements following correct syntax
@@ -26,7 +24,6 @@ All programs in this lesson are **written, executed, and tested in Python**.
 - Took user input and displayed output using Python code
 
 ---
-
 
 # 📘 Lesson 2.1: Conditional Statements & Loops
 
@@ -51,6 +48,7 @@ practical, input-based Python programs.
 - continue statement
 - Combining loops and conditionals
 
+---
 
 ## 📘 Lesson 3.1: Lists  
 **Module 3: Data Structures Assignments**
@@ -77,9 +75,7 @@ practical, input-based Python programs.
 - Solved problems using list methods
 - Applied loops with lists for problem-solving
 
-
-
-
+---
 ## 📘 Lesson 3.2: Tuples  
 **Module 3: Data Structures Assignments**
  
