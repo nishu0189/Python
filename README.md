@@ -4,9 +4,7 @@
 # 📘 Lesson 1.2: Python Basics
 
 This lesson focuses on building a strong foundation in Python by understanding its core concepts and implementing them through **hands-on coding questions**.
-
 All programs in this lesson are **written, executed, and tested in Python**.
-
 ---
 
 ## 🎯 Topics Covered
@@ -76,3 +74,26 @@ practical, input-based Python programs.
 ## 📂 File
 - `List.ipynb`
 
+
+## 📘 Lesson 3.2: Tuples  
+**Module 3: Data Structures Assignments**
+
+### Topics Covered
+- Creating tuples
+- Accessing tuple elements (indexing)
+- Tuple slicing
+- Nested Tuples
+- Tuple Concatenation
+- Tuple Methods
+- Tuple packing and unpacking
+- Tuple Conversion
+- Tuple of Tuples
+- Tuple and List(Immutability of tuples)
+- Tuple and String
+- Tuple and Dictionary
+- Nested tuples
+- Tuple and Set
+- Built-in tuple functions (`min`,`max`,`sum`,`sorted`,`len`, `count`, `index`)
+
+  ## 📂 File
+  - `Tuples.ipynb`
