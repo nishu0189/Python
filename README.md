@@ -5,6 +5,11 @@
 
 This lesson focuses on building a strong foundation in Python by understanding its core concepts and implementing them through **hands-on coding questions**.
 All programs in this lesson are **written, executed, and tested in Python**.
+
+---
+## 📂 File
+- `Python_Basics.ipynb` → Contains all practice questions and solutions related to this lesson
+
 ---
 
 ## 🎯 Topics Covered
@@ -22,8 +27,6 @@ All programs in this lesson are **written, executed, and tested in Python**.
 
 ---
 
-## 📂 File
-- `Python_Basics.ipynb` → Contains all practice questions and solutions related to this lesson
 
 # 📘 Lesson 2.1: Conditional Statements & Loops
 
@@ -33,7 +36,9 @@ This lesson focuses on decision-making and repetition in Python using
 conditional statements and loops. All problems are solved using
 practical, input-based Python programs.
 
-
+## 📂 File
+- `control_flow.ipynb`
+  
 - ## 🎯 Topics Covered
 - if statement
 - if-else statement
@@ -45,12 +50,13 @@ practical, input-based Python programs.
 - break statement
 - continue statement
 - Combining loops and conditionals
-## 📂 File
-- `control_flow.ipynb`
+
 
 ## 📘 Lesson 3.1: Lists  
 **Module 3: Data Structures Assignments**
-
+## 📂 File
+- `List.ipynb`
+  
 ### Topics Covered
 - Creating lists
 - Accessing list elements (indexing)
@@ -71,12 +77,15 @@ practical, input-based Python programs.
 - Solved problems using list methods
 - Applied loops with lists for problem-solving
 
-## 📂 File
-- `List.ipynb`
+
 
 
 ## 📘 Lesson 3.2: Tuples  
 **Module 3: Data Structures Assignments**
+ 
+ ## 📂 File
+  - `Tuples.ipynb`
+
 
 ### Topics Covered
 - Creating tuples
@@ -95,5 +104,4 @@ practical, input-based Python programs.
 - Tuple and Set
 - Built-in tuple functions (`min`,`max`,`sum`,`sorted`,`len`, `count`, `index`)
 
-  ## 📂 File
-  - `Tuples.ipynb`
+ 
