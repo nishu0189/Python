@@ -76,6 +76,18 @@ practical, input-based Python programs.
 - Applied loops with lists for problem-solving
 
 ---
+# 📘 Lesson 3.1.1: Lists Real World UseCase 
+**Module 3: Data Structures Assignments**
+## 📂 File
+- `List_Usecase.ipynb`
+
+### Topics Covered
+1. Manage a To-Do-List
+2. Organising students Marks
+3. Managing As Inventory
+4. Collecting User feedback
+
+---
 # 📘 Lesson 3.2: Tuples  
 **Module 3: Data Structures Assignments**
  
