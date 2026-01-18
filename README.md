@@ -100,4 +100,29 @@ practical, input-based Python programs.
 - Tuple and Set
 - Built-in tuple functions (`min`,`max`,`sum`,`sorted`,`len`, `count`, `index`)
 
+---
+
+ # 📘 Lesson 3.3: Sets  
+**Module 3: Data Structures Assignments**
+
+ ## 📂 File
+ -`Sets.ipynb`
  
+### Topics Covered
+- Creating sets
+- Set properties (unordered, unique elements)
+- Adding and removing elements
+- Set operations:
+  - Union
+  - Intersection
+  - Difference
+  - Symmetric difference
+- Built-in set methods (`add`, `remove`, `discard`, `pop`, `clear`)
+- Subsets and Supersets
+- Frozen sets (`frozenset`)
+- Set and List Conversion
+- Set and Dictionary
+- Iterating over sets
+- Set Symmetric Difference Update
+- Set Membership Testing
+- Set of Tuples
