@@ -138,3 +138,30 @@ practical, input-based Python programs.
 - Set Symmetric Difference Update
 - Set Membership Testing
 - Set of Tuples
+
+---
+
+ # 📘 Lesson 4.1 : Function  
+**Module 4: Advanced Functions Assignments**
+
+ ## 📂 File
+ -`Function.ipynb`
+ 
+### Topics Covered
+- Argument
+- Default Parameter in function¶
+- Variable length Parameter (*args)
+- Variable-Length Keyword Parameters (**kwargs)
+- Positional
+- Keyword parameter
+- Combination of Positional and Keyword Argument
+- Return Parameters
+- Multiple Return Parameters
+- Coding example with Function
+- Example 1: Temperature Conversion
+- Example 2: Password Strength Checker
+- EXAMPLE 3: Calculate the Total Cost of items in the shopping Cart
+- EXAMPLE 4: Check if a String is palindrome
+- EXAMPLE 5: Calculate the Factorial of number using recursion
+- EXAMPLE 6: A function to read a file and count the frequency of each word
+- EXAMPLE 7: Validate Email Address
