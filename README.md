@@ -165,3 +165,18 @@ practical, input-based Python programs.
 - EXAMPLE 5: Calculate the Factorial of number using recursion
 - EXAMPLE 6: A function to read a file and count the frequency of each word
 - EXAMPLE 7: Validate Email Address
+
+---
+
+ # 📘 Lesson 4.2 : Lambda  
+**Module 4: Advanced Functions Assignments**
+
+ ## 📂 File
+ -`Lambda.ipynb`
+ 
+### Topics Covered
+- Lambda Function
+- Square of a Number
+- Lambda with if-else
+- Lambda With Map
+- Lambda With Filter
