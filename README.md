@@ -180,3 +180,23 @@ practical, input-based Python programs.
 - Lambda with if-else
 - Lambda With Map
 - Lambda With Filter
+
+
+---
+
+ # 📘 Lesson 4.3 : Map  
+**Module 4: Advanced Functions Assignments**
+
+ ## 📂 File
+ -`Map.ipynb`
+ 
+### Topics Covered
+- The Map Function in Python
+- Lambda function with map
+- Map multiple iterables
+- map() to convert strings to integers
+- map() to convert char to integers
+- map() to convert integers to char
+- Uppercase to Words
+- Map with dictionary
+- Conclusion
